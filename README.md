@@ -1,5 +1,3 @@
-Aqui está o esboço detalhado com os tópicos e sugestões do que falar em cada ponto:
-
 ---
 
 ### **1ª Hora: Teoria - Sistemas Operacionais (60 minutos)**  
